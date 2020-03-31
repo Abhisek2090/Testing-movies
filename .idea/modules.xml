@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Embibe-TMDB-app/Embibe-TMDB-app.iml" filepath="$PROJECT_DIR$/Embibe-TMDB-app/Embibe-TMDB-app.iml" group="PopularMovies/Embibe-TMDB-app" />
       <module fileurl="file://$PROJECT_DIR$/PopularMovies.iml" filepath="$PROJECT_DIR$/PopularMovies.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Embibe-TMDB-app/app.iml" filepath="$PROJECT_DIR$/Embibe-TMDB-app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gp-abhishek-PopularMovies.iml" filepath="$PROJECT_DIR$/gp-abhishek-PopularMovies.iml" group="PopularMovies" />
     </modules>
   </component>
 </project>
